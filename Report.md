@@ -150,7 +150,7 @@
 - 采用参数搜索得到的最优超参数组合重新训练最终选用的模型，并得到训练过程中在验证集表现最佳的模型权值，以便后续模型测试等。
   - **图 3 为训练过程中在训练集和验证集上的loss曲线和accuracy曲线：**
 
-<img src="C:\Users\Yu Xuan\AppData\Roaming\Typora\typora-user-images\image-20240423231931537.png" alt="image-20240423231931537" style="zoom:80%;" />
+<img src="static/train.png" alt="train" style="zoom:80%;" />
 
 ​												*图 2*
 
@@ -168,7 +168,7 @@
 
 - **Test Accuracy: 0.8932 **
 
-- **Test Loss: 0.324949**
+- **Test Loss: 0.321296**
 
 ---
 
