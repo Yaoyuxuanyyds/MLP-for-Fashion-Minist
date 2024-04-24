@@ -54,7 +54,7 @@
 
 ## 4. 模型权重下载
 
-#### 如果你选用项目第三部分（Training model with best hyperparametres) 的超参数选择，一个表现较为理想的模型权重可以在这里直接下载获取，并使用模型的 load_model 方法加载到你的模型对象中：https://drive.google.com/drive/folders/1PVsw4rDbi5Sm3dF7vpzgoOLvn4yVRYjl?usp=sharing
+#### 如果你选用项目第三部分（Training model with best hyperparametres) 的超参数选择，一个表现较为理想的模型权重可以在这里直接下载获取，并使用模型的 load_model 方法加载到你的模型对象中：https://drive.google.com/drive/folders/1ZwDhIhAX-pf4uBSpxF8AYU-FohFao6Jy?usp=sharing
 
 （在 log 目录中也可以直接获取）
 
