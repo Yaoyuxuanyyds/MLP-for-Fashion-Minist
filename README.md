@@ -1,4 +1,4 @@
-# 		MLP-for-Fashion-Minist
+<h1 align = "center">MLP-for-Fashion-Minist</h1>
 
 ​	
 
